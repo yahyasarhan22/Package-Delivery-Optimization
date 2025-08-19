@@ -151,6 +151,3 @@ For original project requirements:
 * Course: ENCS3340 (Artificial Intelligence)
 * Instructor: Dr. Yazan Abu Farha
 
----
-
-Do you want me to also **add screenshots of the GUI + route plots** (from test cases in your report) into the README for a more attractive GitHub page?
